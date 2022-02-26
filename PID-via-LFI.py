@@ -11,9 +11,8 @@ for x in range(0,10000):
 	content = r.content
 	
 	if (length_of_resp > 150):
-		print("#####################################") 
 		print("FOUND PROCESS") 
 		print("URL:" + r.url) 	
 		print("Length:" + str(length_of_resp))
 		print("Result:", re.split("/cmdline/" , str(content) ) )
-		print("#####################################") 
+		print("#####################################\n") 
