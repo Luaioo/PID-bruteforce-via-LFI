@@ -23,7 +23,7 @@ for x in range(0,10000):
 ### Usage:
 Use this command to run the python tool you just setup:
 
-`Python3 File-Name.py`
+`Python3 PID-via-LFI.py`
 
 
 | Screenshot |
