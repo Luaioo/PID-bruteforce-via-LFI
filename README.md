@@ -28,7 +28,7 @@ Use this command to run the python tool you just setup:
 
 | Screenshot |
 |------------|
-|(![PID](https://user-images.githubusercontent.com/68829493/155852527-175a99b4-60d4-4704-9033-fb59b04c2fb5.png)|
+|![PID](https://user-images.githubusercontent.com/68829493/155852527-175a99b4-60d4-4704-9033-fb59b04c2fb5.png)|
 
 
 
