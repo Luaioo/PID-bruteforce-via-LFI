@@ -1,4 +1,4 @@
-# PID-bruteforce-via-LFI
+# PID Brute-Force via LFI
 
 ## Vulnerability
 I wrote this python script to help solve the backdoor machine in Hack The Box. The script was used for a brute forcing PID via LFI vulnerability. 
